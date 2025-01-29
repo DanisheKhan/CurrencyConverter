@@ -34,7 +34,7 @@ function App() {
         }}
       >
         <div className="max-w-[95%]">
-          <div className="w-full max-w-md p-5 mx-auto border rounded-2xl border-gray-60 backdrop-blur-sm">
+          <div className="w-full max-w-md p-5 mx-auto border-2 rounded-2xl border-gray-60 backdrop-blur-sm">
           <h1 className="flex justify-center mb-10 text-lg font-semibold text-white" >DevelopedBy: DanishKhan</h1>
             <form
               onSubmit={(e) => {
